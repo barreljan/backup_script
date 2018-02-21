@@ -1,0 +1,16 @@
+/var/www
+/etc/aliases
+/etc/httpd
+/etc/php.ini
+/etc/my.cnf
+/etc/letsencrypt
+/etc/postfix
+/etc/syslog-ng
+/etc/snmp
+/etc/vsftpd
+/etc/sysconfig/network*
+/etc/sysconfig/iptables
+/etc/sysconfig/ip6tables
+/usr/share/syslog-ng
+/home
+/root
